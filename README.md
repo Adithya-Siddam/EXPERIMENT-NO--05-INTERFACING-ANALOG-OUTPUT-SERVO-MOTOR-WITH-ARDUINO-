@@ -1,5 +1,4 @@
-# EXPERIMENT NO 05 
-Interfacing analog output with ardunio and servo motor.
+# EXPERIMENT NO 05 Interfacing analog output with ardunio and servo motor.
 ### AIM:
 To interface an Analog output with ardunio and servo motor.
 ### COMPONENTS REQUIRED:
