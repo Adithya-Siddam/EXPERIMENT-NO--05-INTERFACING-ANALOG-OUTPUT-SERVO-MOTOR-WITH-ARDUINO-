@@ -74,5 +74,6 @@ void loop()
  ~~~
 ### OUTPUT:
 ![OUTPUT](img1.png)
+![OUTPUT](img2.png)
 ### RESULTS: 
 Thus, interfacing of analog output is completed sucessfully with thinkercad software.
